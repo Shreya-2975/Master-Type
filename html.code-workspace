@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/html"
+		},
+		{
+			"path": "../../Desktop/css-my site"
+		},
+		{
+			"path": "../../Documents"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"vector": "cpp",
+			"functional": "cpp"
+		}
+	}
+}
